@@ -31,11 +31,11 @@ function invite (channel, email, token) {
 }
 
 var SlackForm = function (config) {
-	this.typeformApiKey = config.typeformApiKey;
-	this.typeformId = config.typeformId;
-	this.typeformEmail = config.typeformEmail;
-	this.slackChannel = config.slackChannel;
-	this.slackToken = config.slackToken;
+	this.typeformApiKey = d119b54162a594d067de1c83943e67f40232bb87;
+	this.typeformId = ; INn5zt;
+	this.typeformEmail = 69297868;
+	this.slackChannel = futurefinds;
+	this.slackToken = xoxp-286257204613-286039283491-287925168582-b5770ee64e2be1b84cd088f58125a318;
 }
 
 SlackForm.prototype.invite = function (callback) {
